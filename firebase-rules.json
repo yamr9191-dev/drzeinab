@@ -1,0 +1,12 @@
+{
+  "rules": {
+    "shared": {
+      "zeinab_shared_2007": {
+        "app": {
+          ".read": true,
+          ".write": true
+        }
+      }
+    }
+  }
+}
